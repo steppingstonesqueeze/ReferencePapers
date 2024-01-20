@@ -1,0 +1,11 @@
+Vector databases, vector retrievals, approximate NN search and friends
+
+1. Foundations of retrieval -- https://arxiv.org/pdf/2401.09350.pdf
+2. LLaMa-2 paper -- https://arxiv.org/pdf/2307.09288.pdf
+3. Mixtral paper -- https://arxiv.org/pdf/2401.04088.pdf
+4. Merging LLMs with mergekit -- https://towardsdatascience.com/merge-large-language-models-with-mergekit-2118fb392b54
+  Github repo :: https://github.com/cg123/mergekit
+5. LLMOps 
+
+1. Pinecone vector DB : serverless - blog : https://www.pinecone.io/blog/serverless/
+2. 
